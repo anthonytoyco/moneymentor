@@ -5,3 +5,5 @@ WORKDIR /app
 COPY . /app
 
 RUN pip install --no-cache-dir quotes nicegui
+
+CMD ["python", "/app/main.py"]
