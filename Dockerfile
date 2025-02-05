@@ -2,8 +2,8 @@ FROM zauberzeug/nicegui:1.3.13
 
 WORKDIR /app
 
-COPY . /app
+COPY app /app
 
-RUN pip install --no-cache-dir quotes nicegui
+RUN pip install --no-cache-dir app/requirements.txt
 
 CMD ["python", "/app/main.py"]
