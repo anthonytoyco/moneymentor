@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for moneymentor-app on 2025-02-05T08:10:06Z
+# fly.toml app configuration file generated for moneymentor on 2025-02-05T21:19:01Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'moneymentor-app'
+app = 'moneymentor'
 primary_region = 'yyz'
 
 [build]
