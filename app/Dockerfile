@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pip install --no-cache-dir -r quotes nicegui
+RUN pip install --no-cache-dir quotes nicegui
