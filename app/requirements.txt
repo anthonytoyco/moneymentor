@@ -1,2 +1,2 @@
-quotes
-nicegui
+quotes==0.0.3
+nicegui==2.11.0
