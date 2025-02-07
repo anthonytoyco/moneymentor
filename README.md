@@ -34,12 +34,12 @@ MoneyMentor is an AI-powered budgeting assistant that helps users track expenses
 
 - **Frontend**: [NiceGUI](https://nicegui.io/), hosted on [Render](https://render.com) at [moneymentorapp.tech](https://moneymentorapp.tech)
 
-- **Backend**: [Django Ninja](https://django-ninja.dev/), hosted on [Render](https://render.com) at [api.moneymentorapp.tech](https://api.moneymentorapp.tech)
+- **Backend**: Django + [Django Ninja](https://django-ninja.dev/), hosted on [Render](https://render.com) at [api.moneymentorapp.tech](https://api.moneymentorapp.tech)
 
-- **Database**: PostgreSQL, hosted on [DigitalOcean](https://www.digitalocean.com/)
+- **Database**: [Supabase](https://supabase.com/)
 
 - **OCR Processing**: Tesseract OCR\*
 
-- **AI & APIs**: Google Gemini API\*
+- **AI & APIs**:
 
 - **Visualization**: Matplotlib\*
