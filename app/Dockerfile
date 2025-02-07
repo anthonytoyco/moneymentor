@@ -1,6 +1,8 @@
 FROM zauberzeug/nicegui:1.3.13
 
-COPY . /app
+WORKDIR /app
+
+COPY app /app
 
 RUN pip install --no-cache-dir -r requirements.txt
 
