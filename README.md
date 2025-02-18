@@ -20,6 +20,8 @@ MoneyMentor is an AI-powered budgeting assistant that helps users track expenses
 
 - [ ] **Dynamic Budgeting System**: Enables users to set budgets that adjust dynamically based on their spending trends.
 
+- [ ] **Social Groups**: Users can form groups within the app to complete group challenges and compete with other groups.
+
 ### Advanced Features
 
 - [ ] **Personalized AI Feedback**: Offers real-time AI-driven financial insights and recommendations.
@@ -43,3 +45,9 @@ MoneyMentor is an AI-powered budgeting assistant that helps users track expenses
 - **AI & APIs**:
 
 - **Visualization**: Matplotlib\*
+
+## PDFs
+
+- **Project Proposal**: [PDF](https://github.com/anthonytoyco/moneymentor/blob/main/misc/project_proposal.pdf)
+
+- **Design Proposal**: [PDF](https://github.com/anthonytoyco/moneymentor/blob/main/misc/design_proposal.pdf)
